@@ -1,9 +1,8 @@
 ### Hi there👋，I'm Jomorx，welcome to my github！
 
--   🏠目前在成都，是双流一大三本科牲👨‍🎓 
-<!-- -   热爱开源💻| 热爱 coding⌨ -->
--   近期的目标是找到一个工作 👨‍🔧，实现财务自由🥰
-<!-- -   目前正在开发自己的 [组件库(Molix)](https://github.com/molix-ui/Molix) 👨‍💻 -->
+-   🏠目前在成都，是双流一大四本科牲👨‍🎓 
+-   目前在学习rust，希望能有一个班上😭
+(https://github.com/molix-ui/Molix) 👨‍💻 -->
 <div style="display:flex;margin-bottom:20px;">
 <img src="./assets/h5.png"height="50em" width="50em" />
 <img src="./assets/css3.png"height="50em" width="50em" />
